@@ -25,6 +25,12 @@ echo $suma;
 
 echo "<br />La variable \$suma tiene el valor de $suma <br />";
 
+$resta=$num1+$num2;
+
+echo $resta;
+
+echo "<br />La variable \$resta tiene el valor de $resta <br />";
+
 $modulo = $num2 % 2;
 
 if($modulo == 0){
